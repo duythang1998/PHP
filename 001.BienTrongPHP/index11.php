@@ -17,6 +17,7 @@
 
 <?php
 $str = "chao ha noi";
+
 // hàm dùng để đếm số ký tự
 echo "<br> Hàm strlen(biến) dùng để đếm số ký tự : " . strlen($str);
 echo "<br> Hàm str_word_count (biến) dùng để đếm số từ trong chuỗi : " . str_word_count($str);
